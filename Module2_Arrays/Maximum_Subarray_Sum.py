@@ -11,6 +11,6 @@ def maxSubarraySum(arr, n):
     return max_sum
 
 
-arr = [2. -10, 0, 90]
+arr = [2, -10, 0, 90]
 n = len(arr)
 print(maxSubarraySum(arr, n))
